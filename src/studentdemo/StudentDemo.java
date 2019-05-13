@@ -7,7 +7,7 @@ package studentdemo;
 
 /**
  * A model class to model Student Objects
- * @author megha,2019
+ * @author megha,2019 week 2
  */
 public class StudentDemo 
 {
