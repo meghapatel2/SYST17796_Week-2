@@ -7,7 +7,7 @@ package studentdemo;
 
 /**
  * A class to create an array of students and print their names
- * @author megha, 2019
+ * @author megha,21 May,2019
  */
 public class StudentArray 
 {
